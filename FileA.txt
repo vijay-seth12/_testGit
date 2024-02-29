@@ -1,2 +1,3 @@
 This is File A.
 This is change is File A.
+Make cahnges for Git repo.
